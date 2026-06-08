@@ -22,7 +22,7 @@ function App() {
             Miles de mascotas esperan un hogar lleno de amor.
           </p>
 
-          <button>Adoptar ahora</button>
+          <button>Adoptar tu therian</button>
         </div>
       </section>
 
