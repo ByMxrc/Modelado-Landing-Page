@@ -50,7 +50,7 @@ function App() {
         />
 
         <div>
-          <h2>Adopta Putito</h2>
+          <h2>Adopta con valentia</h2>
 
           <p>
             Todas nuestras mascotas reciben atención veterinaria y seguimiento
